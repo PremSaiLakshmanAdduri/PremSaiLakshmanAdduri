@@ -43,6 +43,11 @@ Myself, Prem !
   <br>
 </p>
 
-<h1> Let's Connect :  </h1> <br>
+<h1> Let's Connect :  </h1>
 
-<a href="mailto:ConnectWith@kamandulapremsailakshman.com">![ConnectWith@kamandulapremsailakshman.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="www.linkedin.com/in/prem-sai-lakshman-adduri-3a152126a">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/prem-sai-lakshman-adduri-3a152126a)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kamandulapremsailakshman@gmail.com)](mailto:kamandulapremsailakshman@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/PremSaiLakshmanAdduri)](https://github.com/PremSaiLakshmanAdduri)
+[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/224201p)](https://www.hackerrank.com/224201p)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mr.smartest01)](https://www.facebook.com/mr.smartest01)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_.mr_prem._/)](https://www.instagram.com/_.mr_prem._/)
