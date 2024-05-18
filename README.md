@@ -14,7 +14,7 @@ Myself, Prem !
 
 <br>
 
-<h1>Teck Stack : </h1>
+<h1>Tech Stack : </h1>
 <b>Programming Languages :</b>
 
 <img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"> <img title="Java" alt="Java" width="40px" src="https://github.com/PremSaiLakshmanAdduri/PremSaiLakshmanAdduri/assets/170166841/4046c86e-bde2-40a9-a7f1-85b92bc86ffe"> <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" > <img title="HTML" alt="HTML" width="40px" src="https://github.com/PremSaiLakshmanAdduri/PremSaiLakshmanAdduri/assets/170166841/8db9f1e4-1969-48cd-aa96-8bdef92c33d6"> <img title="CSS" alt="CSS" width="40px" src="https://github.com/PremSaiLakshmanAdduri/PremSaiLakshmanAdduri/assets/170166841/f31ecb84-b7be-4bd9-9d12-d21303395d8d"> <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> <img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">  
