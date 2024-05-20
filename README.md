@@ -2,15 +2,17 @@
 
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=PremSaiLakshmanAdduri)](https://github.com/PremSaiLakshmanAdduri) [![GitHub followers](https://img.shields.io/github/followers/PremSaiLakshmanAdduri.svg?style=social&label=Follow)](https://github.com/PremSaiLakshmanAdduri?tab=followers) <br> <br>
-Myself, Prem !
-- <i> Currently: </i>  B.Sc CS Student at P.B. Siddhartha College of Arts & Science. <br> <br>
+Myself, Prem 
+ <p align="center"><i><b>Currently:</b></i>  B.Sc Computer Science Student at Parvathaneni Brahmayya Siddhartha College of Arts & Science, Mogalrajapuram, <br> Siddhartha Nagar, Vijayawada, Andhra Pradesh 520010 </p><br>
 
 
 <h1>Learning Status : </h1>
 
+  
 - Java Full Stack Development at Aspiron Khuze Technologies Pvt Ltd
 - AWS Academy Graduate under Cloud Foundation & Architecting
-- Google Cloud Skill Boost on Generative AI 
+- Google Cloud Skill Boost on Generative AI
+
 
 <br>
 
@@ -37,17 +39,21 @@ Myself, Prem !
 <br>
 
 <h1> Statistics : </h1>
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=PremSaiLakshmanAdduri&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=PremSaiLakshmanAdduri&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-</p>
+  <div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PremSaiLakshmanAdduri&show_icons=true)
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PremSaiLakshmanAdduri&theme=transparent)](https://git.io/streak-stats)
+
+</div>
 
 <h1> Let's Connect :  </h1>
 
+   
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/prem-sai-lakshman-adduri-3a152126a/)](https://www.linkedin.com/in/prem-sai-lakshman-adduri-3a152126a/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kamandulapremsailakshman@gmail.com)](mailto:kamandulapremsailakshman@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/PremSaiLakshmanAdduri)](https://github.com/PremSaiLakshmanAdduri)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/224201p)](https://www.hackerrank.com/224201p)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mr.smartest01)](https://www.facebook.com/mr.smartest01)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_.mr_prem._/)](https://www.instagram.com/_.mr_prem._/)
+
