@@ -41,7 +41,7 @@ Myself, Prem
 <h1> Statistics : </h1>
   <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PremSaiLakshmanAdduri&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PremSaiLakshmanAdduri&theme=transparent&show_icons=true)
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=PremSaiLakshmanAdduri&theme=transparent)](https://git.io/streak-stats)
 
